@@ -1,0 +1,8 @@
+<resources>
+    <style name="EquidexTheme" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#0A0A0A</item>
+        <item name="android:windowSplashScreenBackground">#0A0A0A</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@mipmap/equidex_launcher</item>
+        <item name="android:colorAccent">#46A9F2</item>
+    </style>
+</resources>

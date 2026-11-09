@@ -1,0 +1,83 @@
+EQUIDEX LICENSE
+
+Copyright (c) 2026 Z-carnage. All rights reserved, except as stated below.
+
+This is not an open-source license. It applies to the source code, documents,
+logos and other files in this repository ("the Software"), except for the
+third-party components listed in section 7.
+
+1. PERMITTED USE
+   You may, free of charge, view, download, build, run and modify the Software
+   strictly for your own personal, non-commercial research and information
+   use, on computers and devices you own or control.
+
+2. FORKS
+   You may fork this repository using GitHub's own features, as GitHub's Terms
+   of Service allow. Any other distribution of the Software, modified or not,
+   requires the copyright holder's prior written permission.
+
+3. RESTRICTIONS
+   You may not:
+   (a) sell, rent, sublicense or otherwise charge for the Software or any
+       modified version of it;
+   (b) use the Software in a commercial product or service, or offer it to
+       others as a hosted service;
+   (c) present the Software as an official or licensed product of any exchange,
+       data provider or other company; or
+   (d) remove this license or any copyright notice.
+
+4. MARKET DATA AND THIRD-PARTY SOURCES
+   This license gives you no rights to data the Software retrieves from third
+   parties. That data belongs to its providers or the relevant exchanges and is
+   governed by their own terms, which you are responsible for following.
+
+5. NOT INVESTMENT ADVICE
+   The Software is an information and research tool only. Nothing it displays
+   is investment, financial, legal or tax advice.
+
+6. NO WARRANTY AND NO LIABILITY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+   PARTICULAR PURPOSE, ACCURACY AND NON-INFRINGEMENT. TO THE MAXIMUM EXTENT
+   PERMITTED BY LAW, THE AUTHORS AND CONTRIBUTORS ARE NOT LIABLE FOR ANY CLAIM,
+   DAMAGES, TRADING LOSS OR OTHER LIABILITY ARISING FROM THE SOFTWARE OR ITS
+   DATA.
+
+   "EQUIDEX" and its logo are marks of this project and are not licensed for
+   any use beyond identifying the Software. TERMS.md applies to the installed
+   application.
+
+7. THIRD-PARTY COMPONENTS
+   These components are not owned by the copyright holder and remain under
+   their own licenses.
+
+   Loaded by the application at run time (full license texts are in SETUP.md,
+   section 5):
+   - PDF.js, Mozilla Foundation and contributors: Apache License 2.0
+   - Inter, The Inter Project Authors: SIL Open Font License 1.1
+   - Inconsolata, The Inconsolata Project Authors: SIL Open Font License 1.1
+
+   Included in a desktop build and in EQUIDEX-Setup.exe (full license texts
+   are in THIRD-PARTY-LICENSES.txt):
+   - CPython 3.12: Python Software Foundation License
+   - pywebview 6.2.1: BSD 3-Clause
+   - pypdf 6.21.4: BSD 3-Clause
+   - pythonnet 3.2.0: MIT
+   - clr_loader 0.3.1: MIT
+   - proxy_tools 0.1.0: MIT
+   - bottle 0.13.4: MIT
+   - typing_extensions 4.16.0: PSF-2.0
+   - cffi 2.1.1: MIT-0
+   - pycparser 3.0: BSD 3-Clause
+   - altgraph, pefile, setuptools, wheel: MIT
+   - packaging: Apache-2.0 or BSD 2-Clause
+   - pywin32-ctypes: BSD 3-Clause
+   - OpenSSL: Apache License 2.0
+   - expat, zlib and libmpdec: their own licenses
+   - Microsoft WebView2 SDK libraries: Microsoft's license terms
+   - Tcl/Tk (installer only): Tcl/Tk license
+
+   Build tools:
+   - PyInstaller 6.22.3 and 6.21.0: GPL 2.0 or later, with a bootloader
+     exception that permits distributing the programs it builds
+   - Chaquopy 17 (Android build only): its own license terms

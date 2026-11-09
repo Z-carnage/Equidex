@@ -1,0 +1,13 @@
+# Generated build output
+build/
+dist/
+.gradle/
+__pycache__/
+*.pyc
+
+# Backups of earlier builds
+_pre-rebuild-backup-*/
+
+# Per-machine settings
+.claude/settings.local.json
+local.properties

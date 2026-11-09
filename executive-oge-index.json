@@ -1,0 +1,222 @@
+{
+  "checkedAt": "2026-10-10",
+  "source": "https://extapps2.oge.gov/201/Presiden.nsf/API.xsp/v3/rest",
+  "reports": [
+    {
+      "type": "<a href='https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/0BDCCCE7DE13AEFA85258E8A002DE2B5/$FILE/Donald-J-Trump.09.17.2026-278T.pdf'>278 Transaction</a>",
+      "name": "Trump, Donald J",
+      "agency": "White House Office",
+      "title": "President",
+      "level": "n/a",
+      "docDate": "2026-10-08T04:21:11",
+      "amended": ""
+    },
+    {
+      "type": "<a href='https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/B157175D415FEC4685258E82002DBEBE/$FILE/Scott-A-Kupor-07.31.2026-278T.pdf'>278 Transaction</a>",
+      "name": "Kupor, Scott A",
+      "agency": "Office of Personnel Management",
+      "title": "Director",
+      "level": "Level II",
+      "docDate": "2026-09-30T04:19:39",
+      "amended": ""
+    },
+    {
+      "type": "<a href='https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/E590116FC9631E9885258E7A002DE209/$FILE/Donald-J-Trump-09.8.2026-278T.pdf'>278 Transaction</a>",
+      "name": "Trump, Donald J",
+      "agency": "White House Office",
+      "title": "President",
+      "level": "n/a",
+      "docDate": "2026-09-22T04:21:09",
+      "amended": ""
+    },
+    {
+      "type": "<a href='https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/42300720A4227E9E85258E77002DD1B3/$FILE/Scott-A-Kupor-08.07.2026-278T(1).pdf'>278 Transaction</a>",
+      "name": "Kupor, Scott A",
+      "agency": "Office of Personnel Management",
+      "title": "Director",
+      "level": "Level II",
+      "docDate": "2026-09-19T04:20:28",
+      "amended": ""
+    },
+    {
+      "type": "<a href='https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/661FD7E5862DFE1485258E77002DD1AB/$FILE/Scott-A-Kupor-08.07.2026-278T.pdf'>278 Transaction</a>",
+      "name": "Kupor, Scott A",
+      "agency": "Office of Personnel Management",
+      "title": "Director",
+      "level": "Level II",
+      "docDate": "2026-09-19T04:20:27",
+      "amended": ""
+    },
+    {
+      "type": "<a href='https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/CC5D2BAFDF8EB24085258E6E002DF7E9/$FILE/Kevin-Warsh-08.06.2026-278T.pdf'>278 Transaction</a>",
+      "name": "Warsh, Kevin",
+      "agency": "Federal Reserve System Board of Governors",
+      "title": "Governor & Chairman",
+      "level": "Level I",
+      "docDate": "2026-09-10T04:22:05",
+      "amended": ""
+    },
+    {
+      "type": "<a href='https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/D4003325FAE6858085258E6E002DF6AB/$FILE/Eric-M-Ueland-08.06.2026-278T.pdf'>278 Transaction</a>",
+      "name": "Ueland, Eric M",
+      "agency": "Office of Management and Budget",
+      "title": "Deputy Director for Management",
+      "level": "Level II",
+      "docDate": "2026-09-10T04:22:02",
+      "amended": ""
+    },
+    {
+      "type": "<a href='https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/87D4C3BB9C104B3E85258E6D002DDD05/$FILE/Sean-McMaster-06.11.2026-278T(1).pdf'>278 Transaction</a>",
+      "name": "McMaster, Sean",
+      "agency": "Department of Transportation",
+      "title": "Administrator, Federal Highway Administration",
+      "level": "Level II",
+      "docDate": "2026-09-09T04:20:57",
+      "amended": ""
+    },
+    {
+      "type": "<a href='https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/2BF91F890F718ACB85258E5B002DE16B/$FILE/Donald-J-Trump-08.12.2026-278T.pdf'>278 Transaction</a>",
+      "name": "Trump, Donald J",
+      "agency": "White House Office",
+      "title": "President",
+      "level": "n/a",
+      "docDate": "2026-08-22T04:21:08",
+      "amended": ""
+    },
+    {
+      "type": "<a href='https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/7B58D078A7F838FE85258E5A002DB8C1/$FILE/Scott-A-Kupor-07.20.2026-278T.pdf'>278 Transaction</a>",
+      "name": "Kupor, Scott A",
+      "agency": "Office of Personnel Management",
+      "title": "Director",
+      "level": "Level II",
+      "docDate": "2026-08-21T04:19:24",
+      "amended": ""
+    },
+    {
+      "type": "<a href='https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/C98F5D124FF9D62785258E5A002DB8E2/$FILE/Scott-A-Kupor-07.15.2026-278T.pdf'>278 Transaction</a>",
+      "name": "Kupor, Scott A",
+      "agency": "Office of Personnel Management",
+      "title": "Director",
+      "level": "Level II",
+      "docDate": "2026-08-21T04:19:24",
+      "amended": ""
+    },
+    {
+      "type": "<a href='https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/0933B220C51FFFB485258E52002DD2D9/$FILE/Kevin-Warsh-06.25.2026-278T.pdf'>278 Transaction</a>",
+      "name": "Warsh, Kevin",
+      "agency": "Federal Reserve System Board of Governors",
+      "title": "Governor & Chairman",
+      "level": "Level I",
+      "docDate": "2026-08-13T04:20:30",
+      "amended": ""
+    },
+    {
+      "type": "<a href='https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/24F079312783534385258E4D002DAB10/$FILE/Michael-J-Kratsios-07.09.2026-278T.pdf'>278 Transaction</a>",
+      "name": "Kratsios, Michael J",
+      "agency": "Office of Science and Technology Policy",
+      "title": "Director",
+      "level": "Level II",
+      "docDate": "2026-08-08T04:18:49",
+      "amended": ""
+    },
+    {
+      "type": "<a href='https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/890743E0467213D285258E4D002D98F0/$FILE/Sean-Duffy-06.09.2026-278T.pdf'>278 Transaction</a>",
+      "name": "Duffy, Sean",
+      "agency": "Department of Transportation",
+      "title": "Secretary",
+      "level": "Level I",
+      "docDate": "2026-08-08T04:18:02",
+      "amended": ""
+    },
+    {
+      "type": "<a href='https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/2DC3DD386173222E85258E4D002D8CD0/$FILE/Frank-J-Bisignano-07.07.2026-278T.pdf'>278 Transaction</a>",
+      "name": "Bisignano, Frank J",
+      "agency": "Social Security Administration",
+      "title": "Commissioner",
+      "level": "Level I",
+      "docDate": "2026-08-08T04:17:31",
+      "amended": ""
+    },
+    {
+      "type": "<a href='https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/B215A2D9D7B0CC0E85258E4A002D8CC2/$FILE/Douglas-J-Burgum-05.12.2026-278T.pdf'>278 Transaction</a>",
+      "name": "Burgum, Douglas J",
+      "agency": "Department of The Interior",
+      "title": "Secretary",
+      "level": "Level I",
+      "docDate": "2026-08-05T04:17:31",
+      "amended": ""
+    },
+    {
+      "type": "<a href='https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/038F222E7B084F8C85258E3F002DB296/$FILE/Markwayne-Mullin-06.24.2026-278T.pdf'>278 Transaction</a>",
+      "name": "Mullin, Markwayne",
+      "agency": "Department of Homeland Security",
+      "title": "Secretary",
+      "level": "Level I",
+      "docDate": "2026-07-25T04:19:08",
+      "amended": ""
+    },
+    {
+      "type": "<a href='https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/E856C1C9F19C67C785258E3F002DB290/$FILE/Markwayne-Mullin-06.26.2026-278T.pdf'>278 Transaction</a>",
+      "name": "Mullin, Markwayne",
+      "agency": "Department of Homeland Security",
+      "title": "Secretary",
+      "level": "Level I",
+      "docDate": "2026-07-25T04:19:08",
+      "amended": ""
+    },
+    {
+      "type": "<a href='https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/0CC139F3C2A2CB1985258E3F002DA973/$FILE/Scott-A-Kupor-06.22.2026-278T(1).pdf'>278 Transaction</a>",
+      "name": "Kupor, Scott A",
+      "agency": "Office of Personnel Management",
+      "title": "Director",
+      "level": "Level II",
+      "docDate": "2026-07-25T04:18:44",
+      "amended": ""
+    },
+    {
+      "type": "<a href='https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/73A4FAE1704F806F85258E3F002DA96E/$FILE/Scott-A-Kupor-06.22.2026-278T.pdf'>278 Transaction</a>",
+      "name": "Kupor, Scott A",
+      "agency": "Office of Personnel Management",
+      "title": "Director",
+      "level": "Level II",
+      "docDate": "2026-07-25T04:18:44",
+      "amended": ""
+    },
+    {
+      "type": "<a href='https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/ADE89624CD8D7F1D85258E35002DD6B1/$FILE/Sean-McMaster-06.11.2026-278T.pdf'>278 Transaction</a>",
+      "name": "McMaster, Sean",
+      "agency": "Department of Transportation",
+      "title": "Administrator, Federal Highway Administration",
+      "level": "Level II",
+      "docDate": "2026-07-15T04:20:40",
+      "amended": ""
+    },
+    {
+      "type": "<a href='https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/F4060C7CB31DC8DA85258E31002DCF6A/$FILE/Michael-Kratsios-06.10.2026-278T.pdf'>278 Transaction</a>",
+      "name": "Kratsios, Michael J",
+      "agency": "Office of Science and Technology Policy",
+      "title": "Director",
+      "level": "Level II",
+      "docDate": "2026-07-11T04:20:22",
+      "amended": ""
+    },
+    {
+      "type": "<a href='https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/F9CA13B970439E8F85258E27002DDF15/$FILE/Donald-J-Trump-06.25.2026-278T%20(2).pdf'>278 Transaction</a>",
+      "name": "Trump, Donald J",
+      "agency": "White House Office",
+      "title": "President",
+      "level": "n/a",
+      "docDate": "2026-07-01T04:21:02",
+      "amended": ""
+    },
+    {
+      "type": "<a href='https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/AC43530823BD60D485258E27002DDEF7/$FILE/Donald-J-Trump-06.25.2026-278T.pdf'>278 Transaction</a>",
+      "name": "Trump, Donald J",
+      "agency": "White House Office",
+      "title": "President",
+      "level": "n/a",
+      "docDate": "2026-07-01T04:21:01",
+      "amended": ""
+    }
+  ]
+}

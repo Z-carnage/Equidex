@@ -1,0 +1,644 @@
+{
+  "source": "Existing Market Trackers recipient-to-ticker mapping; used only for entity scope, never award figures or dates.",
+  "recipients": {
+    "JNXSY4EWJK71": {
+      "name": "FEDERAL EXPRESS CORP",
+      "tickers": [
+        "FDX"
+      ]
+    },
+    "J9EKLNMZXFM6": {
+      "name": "PACIFIC GAS AND ELECTRIC COMPANY",
+      "tickers": [
+        "PCG"
+      ]
+    },
+    "LPQNNLPVKJS9": {
+      "name": "MANHATTAN ASSOCIATES, INC.",
+      "tickers": [
+        "MANH"
+      ]
+    },
+    "VJRNRTSL22K4": {
+      "name": "SIGA TECHNOLOGIES, INC.",
+      "tickers": [
+        "SIGA"
+      ]
+    },
+    "DJY8WLTGF577": {
+      "name": "GENERAL ELECTRIC COMPANY",
+      "tickers": [
+        "GE"
+      ]
+    },
+    "LKAAJG8KK4U1": {
+      "name": "RELX INC.",
+      "tickers": [
+        "RELX",
+        "RLXXF"
+      ]
+    },
+    "JCBMLGPE6Z71": {
+      "name": "BOOZ ALLEN HAMILTON INC",
+      "tickers": [
+        "BAH"
+      ]
+    },
+    "DJUCEANK2KP4": {
+      "name": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+      "tickers": [
+        "NOC"
+      ]
+    },
+    "S1RUKWWRYFL6": {
+      "name": "MCKESSON CORPORATION",
+      "tickers": [
+        "MCK"
+      ]
+    },
+    "SSHPDYFGN7J9": {
+      "name": "BIO-RAD LABORATORIES, INC.",
+      "tickers": [
+        "BIO",
+        "BIO-B"
+      ]
+    },
+    "LL22S1ELLY93": {
+      "name": "LUMEN TECHNOLOGIES GOVERNMENT SOLUTIONS, INC.",
+      "tickers": [
+        "LUMN"
+      ]
+    },
+    "M8EJHX6AA3F1": {
+      "name": "CRA INTERNATIONAL, INC.",
+      "tickers": [
+        "CRAI"
+      ]
+    },
+    "ST9KNX1YNBA7": {
+      "name": "UNIFIRST CORPORATION",
+      "tickers": [
+        "UNF"
+      ]
+    },
+    "SMNWM6HN79X5": {
+      "name": "GENERAL DYNAMICS INFORMATION TECHNOLOGY, INC.",
+      "tickers": [
+        "GD"
+      ]
+    },
+    "YD6LTFVUZNG1": {
+      "name": "RAYTHEON COMPANY",
+      "tickers": [
+        "RTX"
+      ]
+    },
+    "KMW3CRWNAAF3": {
+      "name": "ILLUMINA, INC.",
+      "tickers": [
+        "ILMN"
+      ]
+    },
+    "CWN9UGL3NCL9": {
+      "name": "CARDINAL HEALTH 414, LLC",
+      "tickers": [
+        "CAH"
+      ]
+    },
+    "MM5ZHL8SRFY5": {
+      "name": "BECTON, DICKINSON AND COMPANY",
+      "tickers": [
+        "BDX"
+      ]
+    },
+    "J112N852GTT3": {
+      "name": "AVISTA CORPORATION",
+      "tickers": [
+        "AVA"
+      ]
+    },
+    "D6MTSKS115L9": {
+      "name": "HENRY SCHEIN, INC.",
+      "tickers": [
+        "HSIC"
+      ]
+    },
+    "UGGQJGGH6846": {
+      "name": "STERIS CORPORATION",
+      "tickers": [
+        "STE"
+      ]
+    },
+    "UEUMKYNF64N5": {
+      "name": "CHS INC.",
+      "tickers": [
+        "CHSCL",
+        "CHSCM",
+        "CHSCN",
+        "CHSCO",
+        "CHSCP"
+      ]
+    },
+    "XLV3GRCKDDG6": {
+      "name": "HONEYWELL INTERNATIONAL INC",
+      "tickers": [
+        "HON"
+      ]
+    },
+    "SD9JZ9S7MEA6": {
+      "name": "AGILENT TECHNOLOGIES INC",
+      "tickers": [
+        "A"
+      ]
+    },
+    "C47BNA8GM833": {
+      "name": "ACCENTURE FEDERAL SERVICES LLC",
+      "tickers": [
+        "ACN"
+      ]
+    },
+    "EFAJMASTF3J7": {
+      "name": "HEWLETT PACKARD ENTERPRISE COMPANY",
+      "tickers": [
+        "HPE"
+      ]
+    },
+    "CHTAKEYGS386": {
+      "name": "PITNEY BOWES INC.",
+      "tickers": [
+        "PBI",
+        "PBI-PB"
+      ]
+    },
+    "PCUAKJCDD8G3": {
+      "name": "ECOLAB INC",
+      "tickers": [
+        "ECL"
+      ]
+    },
+    "MMLKPW9JLX64": {
+      "name": "SCIENCE APPLICATIONS INTERNATIONAL CORPORATION",
+      "tickers": [
+        "SAIC"
+      ]
+    },
+    "HFK9V1G2B513": {
+      "name": "MOTOROLA SOLUTIONS, INC.",
+      "tickers": [
+        "MSI"
+      ]
+    },
+    "ZA8ZKLSW2YF4": {
+      "name": "CABLE ONE, INC",
+      "tickers": [
+        "CABO"
+      ]
+    },
+    "YF8QFWJLNBV8": {
+      "name": "UNITED PARCEL SERVICE CO.",
+      "tickers": [
+        "UPS"
+      ]
+    },
+    "ZZRPFWN91KD1": {
+      "name": "AT&T TECHNICAL SERVICES COMPANY, INC",
+      "tickers": [
+        "T"
+      ]
+    },
+    "Q11ZHUFBW741": {
+      "name": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+      "tickers": [
+        "NOC"
+      ]
+    },
+    "EM7LMJJCF6B7": {
+      "name": "FEDERAL EXPRESS CORPORATION",
+      "tickers": [
+        "FDX"
+      ]
+    },
+    "K4QFQ421JT93": {
+      "name": "DUKE ENERGY PROGRESS, LLC",
+      "tickers": [
+        "DUK"
+      ]
+    },
+    "HTHZV61C5DV8": {
+      "name": "SYSCO CORP",
+      "tickers": [
+        "SYY"
+      ]
+    },
+    "UC5SPMUJF8V3": {
+      "name": "QUEST DIAGNOSTICS INCORPORATED",
+      "tickers": [
+        "DGX"
+      ]
+    },
+    "DLG2CENKQXL1": {
+      "name": "CUMMINS, INC.",
+      "tickers": [
+        "CMI"
+      ]
+    },
+    "NG61ZA8TADW3": {
+      "name": "NOVARTIS PHARMACEUTICALS CORPORATION",
+      "tickers": [
+        "NVS"
+      ]
+    },
+    "C2NDCQHE4XM4": {
+      "name": "MCGRAW HILL LLC",
+      "tickers": [
+        "MH"
+      ]
+    },
+    "E9BSACNAJ7G1": {
+      "name": "LEIDOS, INC.",
+      "tickers": [
+        "LDOS"
+      ]
+    },
+    "RE7WMNV9L719": {
+      "name": "SCIENCE APPLICATIONS INTERNATIONAL CORPORATION",
+      "tickers": [
+        "SAIC"
+      ]
+    },
+    "J8CNBANBZ6U8": {
+      "name": "TETRA TECH, INC.",
+      "tickers": [
+        "TTEK"
+      ]
+    },
+    "MX16CA896HK5": {
+      "name": "CHARTER COMMUNICATIONS OPERATING LLC",
+      "tickers": [
+        "CHTR"
+      ]
+    },
+    "VV9KH3L99VE3": {
+      "name": "INTERNATIONAL BUSINESS MACHINES CORPORATION",
+      "tickers": [
+        "IBM"
+      ]
+    },
+    "FNSWEDARMK53": {
+      "name": "DEERE & COMPANY",
+      "tickers": [
+        "DE"
+      ]
+    },
+    "CP22V46XYQK6": {
+      "name": "PACIFIC BIOSCIENCES OF CALIFORNIA, INC",
+      "tickers": [
+        "PACB"
+      ]
+    },
+    "DBQGN324ULK3": {
+      "name": "W.W. GRAINGER, INC.",
+      "tickers": [
+        "GWW"
+      ]
+    },
+    "DX7AU4JMLPC7": {
+      "name": "TYSON FOODS INC.",
+      "tickers": [
+        "TSN"
+      ]
+    },
+    "C9C6HPQLL4A8": {
+      "name": "CATERPILLAR INC",
+      "tickers": [
+        "CAT"
+      ]
+    },
+    "KH2WHM64YV73": {
+      "name": "EATON CORPORATION",
+      "tickers": [
+        "ETN"
+      ]
+    },
+    "H9J9D228RFQ9": {
+      "name": "REPLIGEN CORPORATION",
+      "tickers": [
+        "RGEN"
+      ]
+    },
+    "DETLJCBTUBM4": {
+      "name": "BK TECHNOLOGIES INC",
+      "tickers": [
+        "BKTI"
+      ]
+    },
+    "W3QBFLPJ5MC9": {
+      "name": "FACTSET RESEARCH SYSTEMS INC.",
+      "tickers": [
+        "FDS"
+      ]
+    },
+    "JLJ4MCAHL5Z9": {
+      "name": "ICON CORP",
+      "tickers": [
+        "ICLR"
+      ]
+    },
+    "LMRMKLLL3LG5": {
+      "name": "TETRA TECH, INC.",
+      "tickers": [
+        "TTEK"
+      ]
+    },
+    "TBW7MGPYURM7": {
+      "name": "AXON ENTERPRISE, INC.",
+      "tickers": [
+        "AXON"
+      ]
+    },
+    "DFVEL86MHBN3": {
+      "name": "PLANET LABS PBC",
+      "tickers": [
+        "PL"
+      ]
+    },
+    "KJTFVYP571F8": {
+      "name": "UNIFIRST CORPORATION",
+      "tickers": [
+        "UNF"
+      ]
+    },
+    "WPGFV4MACGA1": {
+      "name": "DXP ENTERPRISES, INC.",
+      "tickers": [
+        "DXPE"
+      ]
+    },
+    "HJGMJN1JKL46": {
+      "name": "CORECIVIC, INC.",
+      "tickers": [
+        "CXW"
+      ]
+    },
+    "RM22FF5AGCU4": {
+      "name": "AGILENT TECHNOLOGIES, INC.",
+      "tickers": [
+        "A"
+      ]
+    },
+    "YLQMY5SGNE55": {
+      "name": "3M COMPANY",
+      "tickers": [
+        "MMM"
+      ]
+    },
+    "JHYDEGZ72RH3": {
+      "name": "HEALTHEQUITY, INC.",
+      "tickers": [
+        "HQY"
+      ]
+    },
+    "UMB7VH738LM1": {
+      "name": "CINTAS CORPORATION",
+      "tickers": [
+        "CTAS"
+      ]
+    },
+    "NH3LDK8CFAK7": {
+      "name": "ABBOTT LABORATORIES INC.",
+      "tickers": [
+        "ABT"
+      ]
+    },
+    "DTSXKA2BGMD9": {
+      "name": "CUMMINS INC.",
+      "tickers": [
+        "CMI"
+      ]
+    },
+    "P3S3GK3DTUA8": {
+      "name": "NOVOCURE INC",
+      "tickers": [
+        "NVCR"
+      ]
+    },
+    "L5KFJWTBJDN5": {
+      "name": "OMNICELL, INC.",
+      "tickers": [
+        "OMCL"
+      ]
+    },
+    "KWCHDE96MM53": {
+      "name": "LIFEWARD INC",
+      "tickers": [
+        "LFWD"
+      ]
+    },
+    "MR4FCKSNGRC1": {
+      "name": "EDWARDS LIFESCIENCES LLC",
+      "tickers": [
+        "EW"
+      ]
+    },
+    "W8KNL8QJD6H3": {
+      "name": "INSPIRE MEDICAL SYSTEMS, INC.",
+      "tickers": [
+        "INSP"
+      ]
+    },
+    "RHUZFJ4KJ3J1": {
+      "name": "MYOMO INC",
+      "tickers": [
+        "MYO"
+      ]
+    },
+    "DP4CNEMUF5F3": {
+      "name": "BECTON, DICKINSON AND COMPANY",
+      "tickers": [
+        "BDX"
+      ]
+    },
+    "D6JCTEWTMF46": {
+      "name": "MEDTRONIC INC",
+      "tickers": [
+        "MDT"
+      ]
+    },
+    "KP5EVFMHUAN1": {
+      "name": "ABBOTT LABORATORIES INC.",
+      "tickers": [
+        "ABT"
+      ]
+    },
+    "YWDHHW3DLNQ1": {
+      "name": "BOSTON SCIENTIFIC CORP",
+      "tickers": [
+        "BSX"
+      ]
+    },
+    "CTUCAM8YJL36": {
+      "name": "SMITH & NEPHEW, INC.",
+      "tickers": [
+        "SNN",
+        "SNNUF"
+      ]
+    },
+    "E21VP9DNS4N8": {
+      "name": "HONEYWELL INTERNATIONAL, INC",
+      "tickers": [
+        "HON"
+      ]
+    },
+    "NQEWN6C1LSU5": {
+      "name": "AMAZON WEB SERVICES, INC.",
+      "tickers": [
+        "AMZN"
+      ]
+    },
+    "QD3MLADL7366": {
+      "name": "FORD MOTOR CO",
+      "tickers": [
+        "F"
+      ]
+    },
+    "DG8EN42LYHL6": {
+      "name": "GENERAL MOTORS LLC",
+      "tickers": [
+        "GM"
+      ]
+    },
+    "NTP7NWDS9Y49": {
+      "name": "MSC INDUSTRIAL DIRECT CO., INC.",
+      "tickers": [
+        "MSM"
+      ]
+    },
+    "CFALLJBGZ697": {
+      "name": "GARTNER, INC.",
+      "tickers": [
+        "IT"
+      ]
+    },
+    "W4NLBJHRP7H3": {
+      "name": "TETRA TECH, INC.",
+      "tickers": [
+        "TTEK"
+      ]
+    },
+    "Q2K3MSZ843D8": {
+      "name": "MILLERKNOLL INC",
+      "tickers": [
+        "MLKN"
+      ]
+    },
+    "GRCKAMJKQJZ3": {
+      "name": "JACOBS ENGINEERING GROUP INC.",
+      "tickers": [
+        "J"
+      ]
+    },
+    "NC1VVZ3DJ3K4": {
+      "name": "CADENCE DESIGN SYSTEMS INC",
+      "tickers": [
+        "CDNS"
+      ]
+    },
+    "L7EUZR8R5RZ3": {
+      "name": "SCIENCE APPLICATIONS INTERNATIONAL CORPORATION",
+      "tickers": [
+        "SAIC"
+      ]
+    },
+    "FMVPEWNJGLM1": {
+      "name": "MICROSOFT CORPORATION",
+      "tickers": [
+        "MSFT"
+      ]
+    },
+    "UE9QJD4KK1L6": {
+      "name": "LEIDOS, INC.",
+      "tickers": [
+        "LDOS"
+      ]
+    },
+    "NP3NSFVMNUM3": {
+      "name": "EATON CORPORATION",
+      "tickers": [
+        "ETN"
+      ]
+    },
+    "QSXSDASP8FT6": {
+      "name": "MICROCHIP TECHNOLOGY INC",
+      "tickers": [
+        "MCHP"
+      ]
+    },
+    "F1ZBMFDJMGL3": {
+      "name": "RAYTHEON COMPANY",
+      "tickers": [
+        "RTX"
+      ]
+    },
+    "MDSWM6MB1BH7": {
+      "name": "LEIDOS, INC.",
+      "tickers": [
+        "LDOS"
+      ]
+    },
+    "SLVERBJAVNS4": {
+      "name": "L3HARRIS TECHNOLOGIES, INC.",
+      "tickers": [
+        "LHX"
+      ]
+    },
+    "E3HYKKLT5ZT1": {
+      "name": "GENERAL ELECTRIC COMPANY",
+      "tickers": [
+        "GE"
+      ]
+    },
+    "ZFPKQ7L6T884": {
+      "name": "GE AVIATION SYSTEMS LLC",
+      "tickers": [
+        "GE"
+      ]
+    },
+    "UTJWTSLMFNG4": {
+      "name": "SIKORSKY AIRCRAFT CORPORATION",
+      "tickers": [
+        "LMT"
+      ]
+    },
+    "QN1BCFY7JDJ5": {
+      "name": "RTX CORPORATION",
+      "tickers": [
+        "RTX"
+      ]
+    },
+    "R649KR5942C3": {
+      "name": "LUMEN TECHNOLOGIES GOVERNMENT SOLUTIONS, INC",
+      "tickers": [
+        "LUMN"
+      ]
+    },
+    "Y3FCQR7FW2E1": {
+      "name": "KELLY SERVICES, INC.",
+      "tickers": [
+        "KELYA",
+        "KELYB"
+      ]
+    },
+    "TD2JM5U24NF8": {
+      "name": "CYTEK BIOSCIENCES, INC.",
+      "tickers": [
+        "CTKB"
+      ]
+    },
+    "LG6WVXVEEJN3": {
+      "name": "L3 TECHNOLOGIES, INC.",
+      "tickers": [
+        "LHX"
+      ]
+    }
+  }
+}

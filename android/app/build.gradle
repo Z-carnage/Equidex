@@ -1,0 +1,23 @@
+plugins { id 'com.android.application'; id 'com.chaquo.python' }
+android {
+    namespace 'com.equidex.mobile'
+    compileSdk 35
+    defaultConfig {
+        applicationId 'com.equidex.mobile'
+        minSdk 24
+        targetSdk 35
+        versionCode 1
+        versionName '1.0'
+        // Phones only (personal use): x86_64 is for emulators/Chromebooks and doubled the APK (~15 MB). Add it back here to test on an emulator.
+        ndk { abiFilters 'arm64-v8a' }
+    }
+    compileOptions { sourceCompatibility JavaVersion.VERSION_17; targetCompatibility JavaVersion.VERSION_17 }
+}
+chaquopy { defaultConfig { version '3.12'; pip { install 'pypdf' }; if (System.getenv('EQUIDEX_BUILD_PYTHON')) { buildPython System.getenv('EQUIDEX_BUILD_PYTHON') } } }
+tasks.register('syncEquidex', Copy) {
+    from(rootProject.projectDir.parentFile) { include 'executive-oge-index.json', 'executive_oge.py', 'govcon-recipients.json', 'serve.py', 'order_book.py', 'rpo.py', 'equidex-mobile.html', 'screener-fundamentals.js', 'equidex-inconsolata-dark.png', 'equidex-inconsolata-light.png' }
+    into 'src/main/python'
+}
+tasks.named('preBuild').configure { dependsOn 'syncEquidex' }
+
+tasks.matching { it.name.startsWith('merge') && it.name.endsWith('PythonSources') }.configureEach { dependsOn 'syncEquidex' }
